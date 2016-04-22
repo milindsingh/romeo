@@ -1,5 +1,5 @@
 # romeo
-Romeo Remote Keylogger
+Romeo Remote Keylogger for Windows
 
 ### Features
 1. invisible operation
