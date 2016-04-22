@@ -18,4 +18,4 @@ Romeo Remote Keylogger
 2. Build
 3. Run the exe (requires .NET 4.0 or above)
 
-The project only for learning and educational purpose, the user is responsible for his actions. :P
+The project only for learning and educational purpose, the user is wholly responsible for his actions. :P
